@@ -1,0 +1,45 @@
+body {
+  /*background-color: purple;*/
+  margin:0;
+  padding:0;
+  height: 1000px;
+}
+
+.contenedor {
+  margin:0;
+  padding:0;
+  height: 1000px;
+}
+
+.caja {
+  width: 200px;
+  height: 200px;
+}
+
+#rosa {
+  background-color: pink;
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+#azul {
+  background-color: blue;
+  position:absolute;
+  right: 0;
+  top:0;
+}
+
+#verde {
+  background-color: green;
+  position:absolute;
+  left:0;
+  bottom:0;
+}
+
+#amarillo {
+  background-color: yellow;
+  position:absolute;
+  right:0;
+  bottom:0;
+}
